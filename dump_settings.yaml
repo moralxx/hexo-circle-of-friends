@@ -1,6 +1,6 @@
 BLOCK_SITE:
-- hexo.io
-- docs.anheyu.com/
+- https://hexo.io/
+- https://docs.anheyu.com/
 DATABASE: mongodb
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
@@ -20,7 +20,7 @@ LINK:
 - link: https://firce.us.kg/link/
   theme: common2
 MAX_POSTS_NUM: 25
-OUTDATE_CLEAN: 40
+OUTDATE_CLEAN: 500
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
