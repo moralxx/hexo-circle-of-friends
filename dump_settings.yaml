@@ -1,6 +1,6 @@
 BLOCK_SITE:
-- https://hexo.io
-- https://docs.anheyu.com
+- https://hexo.io/
+- https://docs.anheyu.com/
 DATABASE: mongodb
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
